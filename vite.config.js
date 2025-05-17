@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  base: './', // 👈 This line fixes the white screen issue on Netlify
+  base: './', // Important for correct relative paths!
   plugins: [react(), tailwindcss()],
 });

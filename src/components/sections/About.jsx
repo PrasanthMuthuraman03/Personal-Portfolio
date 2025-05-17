@@ -86,22 +86,15 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                     Frontend Developer Intern at Techsnapie Solution (Sept-2023 To Sept 2024){" "}
                   </h4>
+                  <br />
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
-                  </p>
-                </div>
-
-                <div>
-                  <h4 className="font-semibold">
-                    {" "}
-                    Intern at DEF Startups (2019){" "}
-                  </h4>
-                  <p>
-                    Assisted in building front-end components and integration
-                    REST APIs
+                   <ul>
+    <li>Built responsive UI with React, HTML, CSS, JS</li>
+    <li>Collaborated on real client projects</li>
+    <li>Enhanced cross-browser support and UX</li>
+  </ul>
                   </p>
                 </div>
               </div>
